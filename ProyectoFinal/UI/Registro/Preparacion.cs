@@ -7,11 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace ProyectoFinal
+namespace ProyectoFinal.UI.Registro
 {
-    public partial class Form1 : Form
+    public partial class Preparacion : Form
     {
-        public Form1()
+        public Preparacion()
         {
             InitializeComponent();
         }
